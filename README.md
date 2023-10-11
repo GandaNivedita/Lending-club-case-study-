@@ -26,6 +26,6 @@ A consumer finance company that specializes in lending various types of loans to
 Python
 
 ## Contact
-Created by @Niveditaganda
+Created by @Niveditaganda and @Slkanthi
 
 
